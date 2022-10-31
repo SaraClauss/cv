@@ -92,10 +92,9 @@ a:hover {
 }
 
 .bus {
-  float: right;
-  margin-left: auto;
-  width: 25%;
+  margin: auto; 
 }
+
 
 .Hearing {
   width: 25%;
